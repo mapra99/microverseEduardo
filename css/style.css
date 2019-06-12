@@ -3,3 +3,11 @@
     background-color: coral;
   }
 }
+#welcome-section {
+	height: 100vh;
+
+}
+#navbar {
+	position: sticky;
+	top: 0;
+}
